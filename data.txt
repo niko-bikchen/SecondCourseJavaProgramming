@@ -1,0 +1,10 @@
+4000+Suzuki+Blue+Passenger
+5000+Toyota+Red+Passenger
+15000+Suzuki+Black+SUV
+8000+Marcedes+Black+Passenger
+13000+Suzuki+Red+Sports
+12000+Toyota+Red+Sports
+12000+Toyota+Red+SUV
+12000+Toyota+Green+Truck
+10000+Merceds+White+Truck
+18000+Merceds+Black+Truck
